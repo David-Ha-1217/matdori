@@ -79,15 +79,18 @@
 |<img src="./assets/Manage-Restaurants.png" width="100%">식당 관리 메인 화면|<img src="./assets/Register-restaurants.png" width="100%">식당 추가, 수정 화면|
 |<img src="./assets/manage-user.png" width="100%">유저 관리 화면|
 
-## 7. ERD 설계
+## 🧣 7. 시연 영상
+[![Video Label](http://img.youtube.com/vi/3zo9VkNGv3E/0.jpg)](https://youtu.be/3zo9VkNGv3E)
+
+## 🔥 8. ERD 설계
 [dbdiagram](https://dbdiagram.io/d/65fd42f6ae072629ceb1274d)
 <img src="./assets/db.png" width="100%">
 
-## 8. API 명세
+## 🌭 9. API 명세
 - [Swagger](http://43.202.207.158:8080/swagger-ui/index.html)
 - [Notion-Api명세](https://www.notion.so/oreumi/API-92bc8b4dd74b4f67b48b21f6dce182a6)
 
-## 📌 9. 주요 기능
+## 📌 10. 주요 기능
 ### 공통
 - 회원 접근 가능
   - redirection -> 로그인 페이지 (비회원)
