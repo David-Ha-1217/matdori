@@ -80,7 +80,7 @@
 |<img src="./assets/manage-user.png" width="100%">유저 관리 화면|
 
 ## 🧣 7. 시연 영상
-[![Video Label](http://img.youtube.com/vi/3zo9VkNGv3E/0.jpg)](https://youtu.be/3zo9VkNGv3E)
+<a href = "https://youtu.be/3zo9VkNGv3E?feature=shared"> <img src = ./documents/thumbnail.png> </a>
 
 ## 🔥 8. ERD 설계
 [dbdiagram](https://dbdiagram.io/d/65fd42f6ae072629ceb1274d)
